@@ -1,4 +1,7 @@
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace ProEventos.API.Models;
+
 
 public class Evento
 {
